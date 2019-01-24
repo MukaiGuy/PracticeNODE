@@ -1,0 +1,22 @@
+{
+  "name": "sandbox1",
+  "version": "1.0.0",
+  "description": "Practice App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MukaiGuy/PracticeNODE.git"
+  },
+  "author": "Roger Tetsunobu Mukai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MukaiGuy/PracticeNODE/issues"
+  },
+  "homepage": "https://github.com/MukaiGuy/PracticeNODE#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
